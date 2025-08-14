@@ -64,13 +64,3 @@ function reiniciarJogo() {
     exibirMensagemInicial();
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
-
-
-
-
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> 3210fbec2e16effa7dd4b0df02a138a0622664ff
